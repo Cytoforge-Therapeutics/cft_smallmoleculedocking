@@ -1,5 +1,5 @@
 # CFT Small Molecule Docking
-An approach to minimize the hassle in docking so that everyone can use it without any issue.
+An approach to minimize the hassle in docking so that everyone can use it without any issue using google colab
 
 ## Citations and mentions
 Please cite the people associated with it when using this
